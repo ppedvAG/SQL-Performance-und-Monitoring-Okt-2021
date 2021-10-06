@@ -7,4 +7,15 @@
 ## Setup
 
 * Maxdop, RAM, HDDs
+
+## Partitionierung
+
+* part Sicht
+* Partitionierung
+
+## Montoring Tools
+
+* QueryStore
+* Perfmon
+
  
