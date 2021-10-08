@@ -10,4 +10,10 @@
 
 -- Tool3: Profiler
 
+Aufzeichnung von SQL Statements
+
+unbedingt Filtern
+SP Statement Completet (ST Proc)
+auf "anderen" HDD speicher
+Beedigungszeit
 

@@ -1,5 +1,20 @@
 ---Idee: 
 
+Reduz der IO
+
+ohne App Änderung
+schnellere HDDs 
+Verteilen der Tabelle auf versch HDDs via Dateigruppen
+Partitionierung
+Kompression
+part Sicht
+
+mit APP Änderung
+part Sicht
+logische DB Design ( Datentyp , Spalten , Daten in andere Tab)
+
+
+
 /*
 A uznd B sind identisch
 TAB A: 10000
