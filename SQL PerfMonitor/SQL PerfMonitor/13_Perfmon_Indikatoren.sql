@@ -20,9 +20,4 @@ SQL Statistics: Recompilierungen /sec
 Dieser Wert steigt, sobald kompilierte Pläne durch verschiedene SET Einstellungen erneut kompiliert werden müssen.
 SQL Benutzerdefinierbar: User Counter 1 (bis 10)
 Ein Indikator der mir persönlich sehr gut gefällt. Übergibt man der sp_Usercounter1 eine ganze Zahl  so wird diese sofort im Systemmonitor dargestellt. SO ließe sich z.B. der Tagesumsatz im Verhältnis zur CPU oder Speicher darstellen. In Worten: Ab einem bestimmten  Umsatz proTag braucht man eine besser CPU. 
-Full Scan:
-Möchte man ungern haben. Komplettes Laden und lesen einer Tabelle
-Besser wäre Seeks zu bekommen. (--> Pläne).
-SQL Locks-Durchschnittliche Wartezeit in ms:
-Wer wartet gerne. Entscheidend ist: Was ist ein "normaler" Wert und welcher liegt gerade vor.
 

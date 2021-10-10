@@ -17,5 +17,8 @@
 
 * QueryStore
 * Perfmon
+* Profiler
+* Datensammler
+* Databasetuning Advisor
 
  
